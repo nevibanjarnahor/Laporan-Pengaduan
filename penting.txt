@@ -1,0 +1,7 @@
+Admin
+email	: admin@admin.com
+pass	: kominfo2021
+
+Petugas
+email	: petugas@petugas.com
+pass	: kominfo2021
